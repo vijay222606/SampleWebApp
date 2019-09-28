@@ -25,7 +25,7 @@
 
                 <formatter type="plain"/>
 
-                <test name="junit.TestCalulator" haltonfailure="no" outfile="TestCalculator_JunitResult.txt">
+                <test name="junit.TestCalculator" haltonfailure="no" outfile="TestCalculator_JunitResult.txt">
                     <formatter type="xml"/>
                 </test>
           </junit>

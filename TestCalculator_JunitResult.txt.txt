@@ -1,10 +1,8 @@
-Testsuite: junit.TestCalulator
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 sec
+Testsuite: junit.TestCalculator
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.055 sec
 
-	Caused an ERROR
-junit.TestCalulator
-java.lang.ClassNotFoundException: junit.TestCalulator
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
-	at java.lang.Class.forName0(Native Method)
-	at java.lang.Class.forName(Class.java:348)
-
+Testcase: testDivideByZero took 0.004 sec
+Testcase: testAdd took 0 sec
+Testcase: testSubtract took 0 sec
+Testcase: testDivide took 0 sec
+Testcase: testMultiply took 0 sec
